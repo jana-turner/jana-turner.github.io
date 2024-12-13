@@ -6,7 +6,7 @@ As a Southern American, I have noticed that many of my peers tend to have either
 
 ## Methodology ##
 
-I am using data colleged by the CDC. A full description can be seen [here](#description), directly below. For my analysis, I consider Alabama, Arkansas, Delaware, Florida, Georgia, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, Oklahoma, South Carolina, Tennessee, Texas, Virginia, and West Virginia to be the Southern states. This is a limitation, as I went based on the mason-dixon line and did not do a breakdown of the other regions of the United States. I then used scatter plots to visualize my data. My setup for the analysis begins [here](#cleaning).
+I am using data colleged by the CDC. A full description can be seen [here](#description), directly below. For my analysis, I consider Alabama, Arkansas, Delaware, Florida, Georgia, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, Oklahoma, South Carolina, Tennessee, Texas, Virginia, and West Virginia to be the Southern states. This is a limitation, as I went based on the mason-dixon line and did not do a breakdown of the other regions of the United States. Another limitation of mine is I did not take population into account, some states have a higher population than others. This could attribute to some of my findings. I then used scatter plots to visualize my data. My setup for the analysis begins [here](#cleaning).
 
 ### Data Description  <a id='description'></a>
 **United States Chronic disease Indicators** <br>
