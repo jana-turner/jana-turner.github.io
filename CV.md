@@ -29,9 +29,7 @@ Learn, Pandas, NumPy, Random Forest, Clustering (K-Means)
 * **Software Systems / Cloud Platforms**: Jupyter Notebook, JupyterLab, Google Drive, Microsoft Office, GitHub
 
 ## Projects
-Undergraduate Researcher Summer 2022
-University of North Carolina at Greensboro
-PI: Dr. Thomas Weighill
+Undergraduate Researcher Summer 2022; University of North Carolina at Greensboro; PI: Dr. Thomas Weighill
 - Description: During this REU, I worked on a project in topological data analysis. During this
 project, we developed a novel way to detect spatial dependence using persistent homology in
 comparison with the existing Moran’s I test. We looked at both theoretical and real data for our
