@@ -40,3 +40,12 @@ national COVID data, looking for hotspots in COVID cases and deaths. It was foun
 method did find spatial dependence that Moran’s I did not. Our results were accepted for
 publication in January 2023. We used Python and Jupyter Notebook to handle the data and write
 our code. We then shared the code with each other using GitHub.
+
+Applied Machine Learning: Course Based Graduate Research Experience Spring 2025; PI: Dr. Edmund Essah Ameyaw
+- Description: This course was a project-based course. This course gave me the opportunity to
+learn how to perform Machine Learning tasks in Python, mainly using the scikit-learn library. I
+applied various Machine Learning models from simple models like Linear Regression to more
+advanced models like Support Vector Machines to Dallas Police Data. My main objective was to
+predict the amount of time it would take for the Dallas Police Department to respond to a crime.
+By the end of the course, I was able to determine which models would be the most effective in
+doing so and get decent accuracy in my predications.
