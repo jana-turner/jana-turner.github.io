@@ -49,3 +49,17 @@ advanced models like Support Vector Machines to Dallas Police Data. My main obje
 predict the amount of time it would take for the Dallas Police Department to respond to a crime.
 By the end of the course, I was able to determine which models would be the most effective in
 doing so and get decent accuracy in my predications.
+
+## Professional Experience
+**Teaching Assistant** - Howard University; Summer 2025
+• Attended all Python courses in the Howard University Data Science bootcamp, taking detailed notes to support student learning. 
+• Facilitated breakout sessions, leading live coding exercises and addressing student inquiries to enhance understanding. 
+• Assisted in grading assignments, providing constructive feedback to help students improve their coding skills.
+
+## Publications
+- Samuel Byers, Neil Pritchard, **Jana Turner**, Thomas Weighill. Detecting spatial dependence
+with persistent homology. NOLTA, IEICE. April 2023.
+- Erika David Parr, Samuel Lippe, **Jana Turner**. Successes and Challenges in Supporting Calculus
+Students to Conceptualize and Express Distance on Graphs. Special Interest Group of the
+Mathematical Association of America on Research in Undergraduate Mathematics Education.
+February 2023. Conference Paper.
