@@ -27,3 +27,18 @@ Learn, Pandas, NumPy, Random Forest, Clustering (K-Means)
 * **GIS**: ArcGIS Pro, ArcGIS Online, Google Maps
 * **Operating Systems**: Microsoft Windows, macOS
 * **Software Systems / Cloud Platforms**: Jupyter Notebook, JupyterLab, Google Drive, Microsoft Office, GitHub
+
+## Projects
+Undergraduate Researcher Summer 2022
+University of North Carolina at Greensboro
+PI: Dr. Thomas Weighill
+- Description: During this REU, I worked on a project in topological data analysis. During this
+project, we developed a novel way to detect spatial dependence using persistent homology in
+comparison with the existing Moran’s I test. We looked at both theoretical and real data for our
+research. I focused on the application into existing data. I was given North Carolina election data
+by my supervisor, and I ran tests to see if there was any spatial correlation between Democratic
+and Republican voting within NC counties. After we found results for NC data, we moved on to
+national COVID data, looking for hotspots in COVID cases and deaths. It was found that our
+method did find spatial dependence that Moran’s I did not. Our results were accepted for
+publication in January 2023. We used Python and Jupyter Notebook to handle the data and write
+our code. We then shared the code with each other using GitHub.
