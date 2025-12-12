@@ -2,7 +2,7 @@
 
 M.S. student at Howard University with 4+ years of studying various data science techniques such as visualizing data, statical analysis and data wrangling. Dedicated time outside of courses to focus on interpersonal communication and relationship-building within the workplace.
 
-* **Resume/CV:** [Click Here](https://github.com/jana-turner/jana-turner.github.io/blob/35654e5d56c4a501eca1a32aecfc3a74ad62637c/Do%20Southern%20states%20tend%20to%20have%20higher%20asthma%20and%20chronic%20obstructive%20pulmonary%20disorder%20rates%3F.md). 
+* **Resume/CV:** [Click Here](https://github.com/jana-turner/jana-turner.github.io/blob/main/CV.md). 
 
 
 ## Contact Me
