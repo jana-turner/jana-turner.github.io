@@ -13,7 +13,7 @@ interpersonal communication and relationship-building within the workplace
 
 ## Education
 * M.S. Applied Data Science & Analytics - Howard University, Washington, DC
-  * **Expected May 2026**
+  * **Expected May 2026**; **GPA: 4.0**
 * B.S. Mathematics - Rhodes College, Memphis, TN
-  * **May 2023**
   * Minors: Educational Studies, Statistics
+  * **May 2023**; **GPA: 3.67**
