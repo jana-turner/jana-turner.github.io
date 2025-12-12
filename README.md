@@ -2,7 +2,7 @@
 
 M.S. student at Howard University with 4+ years of studying various data science techniques such as visualizing data, statical analysis and data wrangling. Dedicated time outside of courses to focus on interpersonal communication and relationship-building within the workplace.
 
-[Click me](http://www.google.com){: .btn}
+<button name="button">Click me</button>
 
 ## Contact Me
 * **Email:** [jana.turner@bison.howard.edu](mailto:jana.turner@bison.howard.edu), [jturner4025@gmail.com](mailto:jturner4025@gmail.com)
