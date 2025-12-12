@@ -2,7 +2,7 @@
 
 M.S. student at Howard University with 4+ years of studying various data science techniques such as visualizing data, statical analysis and data wrangling. Dedicated time outside of courses to focus on interpersonal communication and relationship-building within the workplace.
 
-* **Resume/CV:** [Click Here](https://github.com/jana-turner/jana-turner.github.io/blob/main/CV.md). 
+* **Resume/CV:** [Click Here](CV.md). 
 
 
 ## Contact Me
