@@ -12,6 +12,8 @@ visualizing data, statical analysis and data wrangling. Dedicated time outside o
 interpersonal communication and relationship-building within the workplace
 
 ## Education
-* M.S. Applied Data Science & Analytics - Howard University, Washington, DC **Expected May 2026**
-* B.S. Mathematics - Rhodes College, Memphis, TN **May 2023**
+* M.S. Applied Data Science & Analytics - Howard University, Washington, DC
+  * **Expected May 2026**
+* B.S. Mathematics - Rhodes College, Memphis, TN
+  * **May 2023**
   * Minors: Educational Studies, Statistics
